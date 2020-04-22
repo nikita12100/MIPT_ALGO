@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Nikita/CLionProjects/Task_4/A/biginteger.h
+iostream
+-
+string
+-
+vector
+-
+
+C:/Users/Nikita/CLionProjects/Task_4/A/main.cpp
+iostream
+-
+biginteger.h
+C:/Users/Nikita/CLionProjects/Task_4/A/biginteger.h
+

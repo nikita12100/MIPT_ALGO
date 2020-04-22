@@ -1,0 +1,3 @@
+C:/Users/User/CLionProjects/1_faculty/2_sem/max_flow/cmake-build-debug/CMakeFiles/max_flow.dir
+C:/Users/User/CLionProjects/1_faculty/2_sem/max_flow/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/CLionProjects/1_faculty/2_sem/max_flow/cmake-build-debug/CMakeFiles/rebuild_cache.dir

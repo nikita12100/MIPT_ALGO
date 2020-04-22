@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nikita/CLionProjects/puzzle_15/main.cpp
+vector
+-
+assert.h
+-
+list
+-
+iostream
+-
+string
+-
+map
+-
+queue
+-
+set
+-
+unordered_map
+-
+

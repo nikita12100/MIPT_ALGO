@@ -1,0 +1,60 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/User/CLionProjects/SEM 2_1/CArcGraph.cpp
+CArcGraph.h
+C:/Users/User/CLionProjects/SEM 2_1/CArcGraph.h
+
+C:/Users/User/CLionProjects/SEM 2_1/CArcGraph.h
+IGraph.h
+C:/Users/User/CLionProjects/SEM 2_1/IGraph.h
+
+C:/Users/User/CLionProjects/SEM 2_1/CListGraph.cpp
+CListGraph.h
+C:/Users/User/CLionProjects/SEM 2_1/CListGraph.h
+
+C:/Users/User/CLionProjects/SEM 2_1/CListGraph.h
+IGraph.h
+C:/Users/User/CLionProjects/SEM 2_1/IGraph.h
+list
+-
+
+C:/Users/User/CLionProjects/SEM 2_1/CMatrixGraph.cpp
+CMatrixGraph.h
+C:/Users/User/CLionProjects/SEM 2_1/CMatrixGraph.h
+
+C:/Users/User/CLionProjects/SEM 2_1/CMatrixGraph.h
+IGraph.h
+C:/Users/User/CLionProjects/SEM 2_1/IGraph.h
+
+C:/Users/User/CLionProjects/SEM 2_1/CSetGraph.cpp
+CSetGraph.h
+C:/Users/User/CLionProjects/SEM 2_1/CSetGraph.h
+
+C:/Users/User/CLionProjects/SEM 2_1/CSetGraph.h
+unordered_set
+-
+IGraph.h
+C:/Users/User/CLionProjects/SEM 2_1/IGraph.h
+
+C:/Users/User/CLionProjects/SEM 2_1/IGraph.h
+vector
+-
+
+C:/Users/User/CLionProjects/SEM 2_1/main.cpp
+iostream
+-
+CListGraph.h
+C:/Users/User/CLionProjects/SEM 2_1/CListGraph.h
+CArcGraph.h
+C:/Users/User/CLionProjects/SEM 2_1/CArcGraph.h
+CSetGraph.h
+C:/Users/User/CLionProjects/SEM 2_1/CSetGraph.h
+CMatrixGraph.h
+C:/Users/User/CLionProjects/SEM 2_1/CMatrixGraph.h
+

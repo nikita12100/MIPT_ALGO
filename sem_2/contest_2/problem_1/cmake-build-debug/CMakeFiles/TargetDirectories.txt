@@ -1,0 +1,3 @@
+C:/Users/User/CLionProjects/1_faculty/2_sem/MST_Kruskala/cmake-build-debug/CMakeFiles/MST_Kruskala.dir
+C:/Users/User/CLionProjects/1_faculty/2_sem/MST_Kruskala/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/CLionProjects/1_faculty/2_sem/MST_Kruskala/cmake-build-debug/CMakeFiles/rebuild_cache.dir
